@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
-**abouabba/abouabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![abouabba's 42 stats](https://badge.mediaplus.ma/greenbinary/abouabba)](https://github.com/oakoudad/badge42)
+---
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
