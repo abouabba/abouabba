@@ -1,8 +1,9 @@
 # Hi there, I'm Abdessamad BOUABBADI 
 
 <div align="center">
-[![abouabba's 42 stats](https://badge.mediaplus.ma/greenbinary/abouabba)](https://github.com/oakoudad/badge42)
-  
+  <a href="(https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/abouabba" alt="abouabba's 42 stats">
+  </a>
 </div>
 
 - 🌱 I’m currently learning on 42network in 1337 coding school located in khouribga
