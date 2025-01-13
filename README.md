@@ -1,4 +1,6 @@
-# Hi there, I'm Abdessamad BOUABBADI
+## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
+
+I'm Abdessamad BOUABBADI
 
 <div align="center">
   <a href="(https://github.com/oakoudad/badge42">
