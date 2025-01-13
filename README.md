@@ -8,9 +8,6 @@ I'm Abdessamad BOUABBADI
   </a>
 </div>
 
-https://badge.mediaplus.ma/binary/ebouabba
-[![ebouabba's 42 stats](https://badge.mediaplus.ma/binary/ebouabba)](https://github.com/oakoudad/badge42)
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ebouabba" alt="ebouabba's 42 stats" /></a>
 - 🌱 I’m currently learning on 42network in 1337 coding school located in khouribga
 - Continuing my quest for knowledge and growth, I embarked on a journey at School 1337, where I honed my skills further and delved deeper into the world of computer science and programming
 
