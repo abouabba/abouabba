@@ -1,8 +1,3 @@
-
-![image](https://github.com/user-attachments/assets/f2ab207a-dfa5-4de1-b8aa-3e5790ca73c2)
-
-
-
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
 
 I'm Abdessamad BOUABBADI
