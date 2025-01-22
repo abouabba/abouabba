@@ -1,4 +1,4 @@
-<p align="center">
+<p align="abouabba">
   <img width="1000" src="https://github.com/abouabba/abouabba/assets" />
 </p>
 
