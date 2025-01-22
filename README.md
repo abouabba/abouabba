@@ -1,7 +1,3 @@
-<p align="abouabba">
-  <img width="1000" src="https://github.com/abouabba/assets" />
-</p>
-
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
 
 I'm Abdessamad BOUABBADI
