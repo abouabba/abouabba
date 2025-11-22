@@ -13,7 +13,7 @@ I'm **Abdessamad BOUABBADI**
 ## 🏅 C Certification
 
 <div align="center">
-  <img src="/mnt/data/image.03BJG3.png" alt="C Certification - Abdessamad Bouabbadi" width="80%">
+  <img src="file:///home/abouabba/Desktop/image.03BJG3.png" alt="C Certification - Abdessamad Bouabbadi" width="80%">
 </div>
 
 ---
