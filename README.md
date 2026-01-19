@@ -1,33 +1,41 @@
-# 👋 Hi there!
-
-I'm **Abdessamad BOUABBADI**
+# 👋 Hi, I'm Abdessamad Bouabbadi
 
 <div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/abouabba" alt="abouabba's 42 stats">
-  </a>
-</div>
 
----
+[![abouabba's 42 stats](https://badge.mediaplus.ma/greenbinary/abouabba)](https://github.com/oakoudad/badge42)
 
-## 🏅 C Certification
-
-<div align="center">
-  <img src="file:///home/abouabba/Desktop/image.03BJG3.png" alt="C Certification - Abdessamad Bouabbadi" width="80%">
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently studying at **1337 Khouribga (42 Network)**.
-- I’m always exploring new technologies, improving my coding skills, and expanding my knowledge in computer science.
-- Passionate about **problem-solving, systems programming, and AI**.
+🎓 Student at **1337 Khouribga (42 Network)**  
+💻 Passionate about **systems programming**, **problem solving**, and **AI**  
+🌱 Always learning, building, and improving my engineering skills  
+🧠 Strong interest in low-level programming, algorithms, and performance
 
 ---
 
-## 🤝 Let’s Connect
+## 🛠️ Skills & Technologies
 
-Whether you have questions, want to collaborate, or just discuss tech, feel free to reach out.  
-I'm always open to meeting new developers and exchanging ideas!
+- **Languages:** C, C++, Python, JavaScript  
+- **Core Concepts:**  
+  - Memory management  
+  - Multithreading & processes  
+  - Semaphores & mutexes  
+  - Algorithms & data structures  
+- **Projects:** minishell, philosophers, cub3D, C++ modules  
 
+---
+
+## 🏅 C Certification
+
+> ✅ Certified in C programming fundamentals
+
+<div align="center">
+  <img src="./assets/c_certification.png" alt="C Certification - Abdessamad Bouabbadi" width="80%">
+</div>
+
+📌 **Important:**  
+Place your certificate image here:
