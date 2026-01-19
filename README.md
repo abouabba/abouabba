@@ -19,13 +19,13 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** C, C++, Python, JavaScript  
+- **Languages:** C, C++, Python, JavaScript
 - **Core Concepts:**  
   - Memory management  
   - Multithreading & processes  
   - Semaphores & mutexes  
   - Algorithms & data structures  
-- **Projects:** minishell, philosophers, cub3D, C++ modules  
+- **Projects:** minishell, philosophers, cub3D, C++ modules ...
 
 ---
 
@@ -34,7 +34,7 @@
 > ✅ Certified in C programming fundamentals
 
 <div align="center">
-  <img src="./assets/c_certification.png" alt="C Certification - Abdessamad Bouabbadi" width="80%">
+  <img src="https://www.codingame.com/certification/1xVP3BrETOggFYgIjp4g4Q" alt="C Certification - Abdessamad Bouabbadi" width="80%">
 </div>
 
 📌 **Important:**  
