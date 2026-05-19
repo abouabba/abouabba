@@ -36,6 +36,3 @@
 <div align="center">
   <img src="https://www.codingame.com/certification/1xVP3BrETOggFYgIjp4g4Q" alt="C Certification - Abdessamad Bouabbadi" width="80%">
 </div>
-
-📌 **Important:**  
-Place your certificate image here:
