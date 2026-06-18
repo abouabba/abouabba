@@ -34,5 +34,5 @@
 > ✅ Certified in C programming fundamentals
 
 <div align="center">
-  <img src="Certification.pdf" alt="C Certification - Abdessamad Bouabbadi" width="80%">
+  <img src="image.03BJG3.png" alt="C Certification - Abdessamad Bouabbadi" width="80%">
 </div>
